@@ -1,0 +1,6 @@
+1.Beribadah
+Senin:Sholat Subuh,zuhur,Ashar,Magrib,Isya
+Selasa:Sholat Subuh,zuhur,Ashar,Isya
+Rabu:Sholat Subuh,Ashar,Magrib,Isya
+Kamis:Sholat Subuh,zuhur,Ashar,Magrib,Isya
+Jumat:Sholat Subuh,zuhur,Ashar,Isya
